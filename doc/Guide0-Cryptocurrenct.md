@@ -38,4 +38,13 @@ Proses Gabungan. ada beberapa yang baru diketahui. namun ini umum.
 1. Hybrid. gabungan POW/POS. sama" medapat double reward.
 2. Masternodes. Stake jangka panjang
 
-Lainnya Lanjut lagi.....
+darimana coin berasal?
+ini dipelopori oleh satoshi nakamoto[anymous][sensei sih]. dan didukung oleh Linus Tovalds setelah rilis kernel versi 4.8 keatas.
+
+Coin sendiri adalah sub=type os. seperti halnya android. meski awal mini-os[pada router, modem yang kamu punya]. namun kali ini linus dan satoshi kompak
+dalam hal open source system
+
+apa itu open source?
+open source ada software yang didistibusikan secara gratis. dan pada tahun sekitar 2011-sekarang. muncul QT
+
+QT adalah open source software platform. atau cross-platform software yang sudah diintegrasikan GUI. Graphic User Interface
